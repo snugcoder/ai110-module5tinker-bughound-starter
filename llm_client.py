@@ -1,6 +1,6 @@
 import os
 from typing import Optional
-
+# import google.generativeai as genai
 
 class MockClient:
     """

@@ -107,3 +107,8 @@ You should see tests covering:
 * Risk scoring and guardrails
 * Heuristic fallbacks when LLM output is invalid
 * End-to-end agent workflow shape
+
+----
+## TF Reflection
+
+Students will spend time on this tinker learning how to complete a full AI implementation workflow. The core concepts include implementing API credits into building a robust project that has limitations and intelligent decision making. Students are most likely to struggle with any bugs in loading in modules or syntax with Gemini or even running out of credits on Gemini's free tier. AI was very helpful when getting me unstuck when trying to deal with a ModuleNotFound error. I would encourage students to work through the assignment as it is really fun to work through and a nice break from the project that is coming up. 

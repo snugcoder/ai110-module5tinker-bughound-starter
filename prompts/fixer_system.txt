@@ -7,4 +7,5 @@ Rules:
 - Do NOT include markdown, explanations, or backticks.
 - Preserve behavior whenever possible.
 - Make the smallest changes needed to address the issues.
+- If needed, make sure the code change is readible.
 - If an issue is ambiguous, prefer safer, more explicit code.
